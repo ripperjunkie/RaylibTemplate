@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1120.
+Source.obj : error LNK2019: unresolved external symbol InitWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol WindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol CloseWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol ClearBackground referenced in function main
+Source.obj : error LNK2019: unresolved external symbol BeginDrawing referenced in function main
+Source.obj : error LNK2019: unresolved external symbol EndDrawing referenced in function main
+Source.obj : error LNK2019: unresolved external symbol InitAudioDevice referenced in function main
+C:\Users\Rafa\Documents\Raylib Projects\RaylibTemplate\\raylib\raylib\projects\VS2022\build\raylib\bin\Win32\Debug.DLL\raylib.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Rafa\Documents\Raylib Projects\RaylibTemplate\x64\Debug\Project1.exe : fatal error LNK1120: 7 unresolved externals

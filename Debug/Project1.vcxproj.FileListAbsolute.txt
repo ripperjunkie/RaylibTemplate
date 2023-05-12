@@ -1,0 +1,2 @@
+C:\Users\Rafa\Documents\Raylib Projects\Template\Debug\Project1.exe
+C:\Users\Rafa\Documents\Raylib Projects\RaylibTemplate\Debug\Project1.exe
