@@ -192,11 +192,7 @@ typedef enum bool{ false = 0, true = !false } bool;
 typedef struct Vector2 {
     float x;                // Vector x component
     float y;                // Vector y component
-	// conversion operator to float
-	operator float() const
-	{
-		return x + y;
-	}
+
 } Vector2;
 
 
